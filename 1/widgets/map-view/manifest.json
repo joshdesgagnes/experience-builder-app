@@ -1,0 +1,50 @@
+{
+  "name": "map-view",
+  "label": "MapView",
+  "type": "widget",
+  "dependencies": [
+    "jimu-arcgis",
+    "jimu-ui",
+    "jimu-core"
+  ],
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Josh Desgagnes",
+  "description": "MapView widget with bottom panel interaction for incident reporting",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "canCreateMapView": true,
+    "incidentLayerUrl": "https://services1.arcgis.com/KsnB2VOAvO5LjdB4/arcgis/rest/services/Incident_Reporting_Layer/FeatureServer",
+    "incidentReportingWidgetId": "incident-reporting-widget"
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  },
+  "supportDataSource": true,
+  "useMapWidget": true,
+  "widgetProps": {
+    "incidentMode": false,
+    "coords": null,
+    "formData": {
+      "title": "",
+      "description": "",
+      "category": "",
+      "image": null
+    },
+    "formErrors": {},
+    "alert": "",
+    "loading": false
+  },
+  "useDataSources": [
+    {
+      "types": [
+        "WEB_MAP"
+      ]
+    }
+  ],
+  "manifestVersion": 2
+}
