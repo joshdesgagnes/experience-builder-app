@@ -59,11 +59,17 @@ A lightweight, list-based widget for:
 ## Installation
 
 1. Clone this repository or install your widgets into your existing Experience Builder environment:
-   ```cmd
+   
    git clone https://github.com/your-org/incident-reporting-exb.git
    cd incident-reporting-exb
 
 2. Copy the `map-view` and `vgi-feed` widgets into your Experience Builder `client/your-extensions/widgets` directory.
+
+3. Run the Experience Builder development server:
+
+   npm start
+
+4. Add the custom widgets into your app via the Experience Builder editor.
 ```
 ---
 ## Configuration
