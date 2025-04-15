@@ -98,10 +98,11 @@ The layer should include the following fields:
 - Optional: Attachments enabled
 
 ## Future Improvements
-- User authentication for report submissions
+- User authentication for report submissions.
 - Display images in incident feed and provide interactivity between incident feed items and the map.
 - Cleaner, customized popups.
-- Better mobile UI and functionality
+- Better mobile UI and functionality.
+- Limit extent and functions to defined area.
 
 ---
 ## References
