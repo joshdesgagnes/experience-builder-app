@@ -20,7 +20,6 @@ The **Incident Reporting App** empowers communities and organizations to crowdso
 The application is built using **ArcGIS Experience Builder Developer Edition**, allowing for full control over layout, interactivity, and integration with ArcGIS web maps and feature services.
 
 ---
-```markdown
 # Experience Builder - Incident Reporting App
 
 This ArcGIS Experience Builder app allows users to **report**, **view**, and **search** public incidents on an interactive map. Built using custom widgets, the application integrates seamlessly with ArcGIS Online's feature layers to enable real-time community-driven geographic incident tracking.
@@ -56,6 +55,8 @@ A lightweight, list-based widget for:
 - Clean UX design optimized for rapid scanning and filtering.
 - Keyword-based **client-side filtering**.
 
+---
+```markdown
 ## Installation
 
 1. Clone this repository or install your widgets into your existing Experience Builder environment:
