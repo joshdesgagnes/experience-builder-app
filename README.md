@@ -65,6 +65,7 @@ A lightweight, list-based widget for:
    ```
 2. Copy the `map-view` and `vgi-feed` widgets into your Experience Builder `client/your-extensions/widgets` directory.
 
+---
 ## Configuration
 
 ### `map-view` Widget
