@@ -62,7 +62,7 @@ A lightweight, list-based widget for:
    ```cmd
    git clone https://github.com/your-org/incident-reporting-exb.git
    cd incident-reporting-exb
-   ```
+
 2. Copy the `map-view` and `vgi-feed` widgets into your Experience Builder `client/your-extensions/widgets` directory.
 ```
 ---
