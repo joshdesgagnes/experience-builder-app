@@ -1,0 +1,206 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0",
+        "MEDIUM": "layout_1",
+        "SMALL": "layout_2"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "Page"
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "GRID",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "gridType": 3,
+          "bbox": {
+            "width": 75.49
+          },
+          "parent": "2"
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "gridType": 3,
+          "parent": "2",
+          "bbox": {
+            "width": 24.51
+          }
+        },
+        "2": {
+          "gridType": 0,
+          "bbox": {
+            "width": 100
+          },
+          "children": [
+            "0",
+            "1"
+          ]
+        }
+      },
+      "order": [],
+      "setting": {
+        "rootItem": "2"
+      }
+    },
+    "layout_1": {
+      "type": "GRID",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "gridType": 3,
+          "bbox": {
+            "width": 67.36
+          },
+          "parent": "2"
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "gridType": 3,
+          "bbox": {
+            "width": 32.64
+          },
+          "parent": "2"
+        },
+        "2": {
+          "gridType": 1,
+          "bbox": {
+            "width": 100
+          },
+          "children": [
+            "0",
+            "1"
+          ]
+        }
+      },
+      "order": [],
+      "setting": {
+        "rootItem": "2"
+      }
+    },
+    "layout_2": {
+      "type": "GRID",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "widgetId": "widget_1",
+          "gridType": 3,
+          "bbox": {
+            "width": 100
+          },
+          "parent": "2"
+        },
+        "1": {
+          "type": "WIDGET",
+          "widgetId": "widget_2",
+          "gridType": 3,
+          "bbox": {
+            "width": 100
+          },
+          "parent": "2"
+        },
+        "2": {
+          "gridType": 2,
+          "bbox": {
+            "width": 100
+          },
+          "children": [
+            "0",
+            "1"
+          ],
+          "activeTab": 1
+        }
+      },
+      "order": [],
+      "setting": {
+        "rootItem": "2"
+      }
+    }
+  },
+  "exbVersion": "1.17.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/default/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "LARGE": {
+        "width": 1280,
+        "height": 800
+      }
+    }
+  },
+  "template": "blankfullscreengrid",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/map-view/",
+      "version": "1.17.0",
+      "label": "MapView",
+      "config": {},
+      "id": "widget_1",
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_2": {
+      "uri": "widgets/vgi-feed/",
+      "version": "1.17.0",
+      "label": "VGI Incident Feed",
+      "config": {
+        "exampleConfigProperty": "test"
+      },
+      "id": "widget_2"
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "messageConfigs": {},
+  "originExbVersion": "1.17.0",
+  "pageStructure": [
+    {
+      "page_0": []
+    }
+  ],
+  "attributes": {
+    "portalUrl": "https://bcitgis.maps.arcgis.com",
+    "isWebTier": false,
+    "clientId": "rWsZPIBQmPzd7KB1",
+    "express": false,
+    "title": "Incident App",
+    "description": "",
+    "type": "Web Experience",
+    "thumbnail": null
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {}
+  },
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "Incident Reporting Map",
+      "itemId": "711678f0c4c64deab9797d1e0a3dc260",
+      "portalUrl": "https://bcitgis.maps.arcgis.com"
+    }
+  },
+  "timestamp": 1744596591137,
+  "publishTimestamp": 1744596592969
+}
