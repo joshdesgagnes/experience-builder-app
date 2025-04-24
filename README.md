@@ -2,7 +2,7 @@
 
 The main folder in the master branch stores my original Experience Builder Developer Edition App with the two custom widgets.
 
-The my-updates branch is used to store all updated version. Currently storing v2 as the most recent.
+The my-updates branch is used to store all updated versions.
 
 gh-pages branch is used to host the most recent version of the app on my github page.
 
