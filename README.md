@@ -103,6 +103,11 @@ The layer should include the following fields:
 - Cleaner, customized popups.
 - Better mobile UI and functionality.
 - Limit extent and functions to defined area.
+- Image moderation
+
+---
+## Screenshot
+![Screenshot 2025-04-23 193917](https://github.com/user-attachments/assets/6185baca-87ef-4556-b2d7-f31419a49989)
 
 ---
 ## References
