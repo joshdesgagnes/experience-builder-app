@@ -1,5 +1,7 @@
 # experience-builder-app
 
+To view the app: [Incident Reporting App](https://joshdesgagnes.github.io/experience-builder-app/)
+
 The main folder in the master branch stores my original Experience Builder Developer Edition App with the two custom widgets.
 
 The my-updates branch is used to store all updated versions.
