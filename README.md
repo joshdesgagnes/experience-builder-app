@@ -58,32 +58,6 @@ A lightweight, list-based widget for:
 - Keyword-based **client-side filtering**.
 
 ---
-```markdown
-## Installation
-
-1. Clone this repository or install your widgets into your existing Experience Builder environment:
-   
-   git clone https://github.com/your-org/incident-reporting-exb.git
-   cd incident-reporting-exb
-
-2. Copy the `map-view` and `vgi-feed` widgets into your Experience Builder `client/your-extensions/widgets` directory.
-
-3. Run the Experience Builder development server:
-
-   npm start
-
-4. Add the custom widgets into your app via the Experience Builder editor.
-```
----
-## Configuration
-
-### `map-view` Widget
-- Set the **web map data source**.
-- Ensure the feature layer URL is correct and supports `addFeatures` and `addAttachment`.
-
-### `vgi-feed` Widget
-- No additional setup required beyond layer URL.
-- Customize styles via `vgi-feed-styles.css`.
 
 ## Feature Layer
 
