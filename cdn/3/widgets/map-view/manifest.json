@@ -14,7 +14,7 @@
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {
     "canCreateMapView": true,
-    "incidentLayerUrl": "https://services1.arcgis.com/KsnB2VOAvO5LjdB4/arcgis/rest/services/Incident_Reporting_Layer/FeatureServer",
+    "incidentLayerUrl": "https://services6.arcgis.com/Jd0WVbRGZxqKxlu5/arcgis/rest/services/Incident_Reporting_Layer/FeatureServer",
     "incidentReportingWidgetId": "incident-reporting-widget",
     "rendererType": "unique-value",
     "incidentLayerTitle": "Incident Reporting Layer"
