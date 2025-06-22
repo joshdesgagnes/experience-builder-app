@@ -177,7 +177,7 @@
     }
   ],
   "attributes": {
-    "portalUrl": "https://bcitgis.maps.arcgis.com",
+    "portalUrl": "https://joshuadesgagnes.maps.arcgis.com",
     "isWebTier": false,
     "clientId": "rWsZPIBQmPzd7KB1",
     "express": false,
@@ -197,8 +197,8 @@
       "id": "dataSource_1",
       "type": "WEB_MAP",
       "sourceLabel": "Incident Reporting Map",
-      "itemId": "711678f0c4c64deab9797d1e0a3dc260",
-      "portalUrl": "https://bcitgis.maps.arcgis.com"
+      "itemId": "6de3e15640e54312918b9b5ab11bb18b",
+      "portalUrl": "https://joshuadesgagnes.maps.arcgis.com"
     }
   },
   "timestamp": 1744596591137,
