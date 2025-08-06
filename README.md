@@ -1,6 +1,6 @@
 # experience-builder-app
 
-App is no longer accesible as I have ran out of ArcGIS Online credits (too expensive).
+**App is no longer accesible as I have ran out of ArcGIS Online credits (too expensive).**
 
 Click the image below to watch the **Incident Reporter App Demo**
 
