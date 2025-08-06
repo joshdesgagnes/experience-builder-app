@@ -1,12 +1,10 @@
 # experience-builder-app
 
-App no longer accesible as I have ran out of ArcGIS Online credits (too expensive).
+App is no longer accesible as I have ran out of ArcGIS Online credits (too expensive).
 
-Video Demo:
+Click the image below to watch the **Incident Reporter App Demo**
 
 [![Watch Incident Reporting Demo](https://github.com/user-attachments/assets/6185baca-87ef-4556-b2d7-f31419a49989)](https://joshdesgagnes.github.io/gisportfolio/media/Incident%20Reporter%20(small).mp4)
-
-Click the image above to watch the **Incident Reporter App Demo**
 
 ~~To view the app: [Incident Reporting App](https://joshdesgagnes.github.io/experience-builder-app/)~~
 
